@@ -1,2 +1,2 @@
 # macOS-Scripts
-Bash,SH, and Python Scripts for macOS
+Bash,sh, and Python Scripts for macOS
